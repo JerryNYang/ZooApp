@@ -1,6 +1,6 @@
 package com.example.zooapp
 
-import android.media.Image
+//import android.media.Image
 
 class Animal {
 
